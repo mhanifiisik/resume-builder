@@ -1,0 +1,108 @@
+{
+  "personalDetails": {
+    "wantedJobTitle": "Software Developer",
+    "photo": "path/to/photo.jpg",
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "john.doe@example.com",
+    "phone": "+1234567890",
+    "country": "United States",
+    "city": "New York",
+    "address": "123 Main Street",
+    "postalCode": "10001",
+    "drivingLicense": "A123456789",
+    "nationality": "American",
+    "placeOfBirth": "New York",
+    "dateOfBirth": "1990-01-01"
+  },
+  "professionalSummary": "Experienced software developer with a strong background in web development and a passion for creating innovative solutions.",
+  "employmentHistory": [
+    {
+      "jobTitle": "Senior Software Engineer",
+      "employer": "Tech Solutions Inc.",
+      "startDate": "2018-01-01",
+      "endDate": "2022-12-31",
+      "city": "San Francisco",
+      "description": "Led a team of developers in creating cutting-edge software solutions for clients."
+    },
+    {
+      "jobTitle": "Software Developer",
+      "employer": "Innovate Tech Labs",
+      "startDate": "2015-03-15",
+      "endDate": "2017-12-31",
+      "city": "Los Angeles",
+      "description": "Contributed to the development of web applications and collaborated with cross-functional teams."
+    }
+  ],
+  "education": [
+    {
+      "school": "University of California",
+      "degree": "Bachelor of Science in Computer Science",
+      "startDate": "2011-09-01",
+      "endDate": "2015-05-31",
+      "city": "Los Angeles",
+      "description": "Studied various aspects of computer science and software engineering."
+    }
+  ],
+  "websitesAndSocialLinks": [
+    {
+      "label": "LinkedIn",
+      "link": "https://www.linkedin.com/in/johndoe"
+    },
+    {
+      "label": "GitHub",
+      "link": "https://github.com/johndoe"
+    }
+  ],
+  "skills": [
+    {
+      "label": "JavaScript",
+      "level": "Advanced",
+      "category": "Programming Languages"
+    },
+    {
+      "label": "React.js",
+      "level": "Intermediate",
+      "category": "Web Development"
+    }
+  ],
+  "languages": [
+    {
+      "label": "English",
+      "level": "Native"
+    },
+    {
+      "label": "Spanish",
+      "level": "Intermediate"
+    }
+  ],
+  "hobbies": ["Reading", "Hiking", "Photography"],
+  "references": [
+    {
+      "referentFullName": "Jane Smith",
+      "company": "ABC Tech Solutions",
+      "phone": "+9876543210",
+      "email": "jane.smith@example.com",
+      "description": "Worked with Jane on multiple successful projects. Excellent team player and problem solver."
+    }
+  ],
+  "projects": [
+    {
+      "title": "Online Shopping Platform",
+      "subTitle": "Built with React and Node.js",
+      "startDate": "2022-02-01",
+      "endDate": "2022-05-31",
+      "description": "Developed a scalable and user-friendly online shopping platform with a focus on performance and security."
+    }
+  ],
+  "declaration": "I hereby declare that the above information is true to the best of my knowledge.",
+  "publication": [
+    {
+      "title": "Web Development Trends",
+      "publisher": "Tech Insights",
+      "startDate": "2021-08-15",
+      "endDate": "2021-08-15",
+      "description": "Authored an article on the latest trends in web development published in Tech Insights magazine."
+    }
+  ]
+}
