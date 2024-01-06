@@ -19,7 +19,5 @@ fi
 echo "Installing node modules..."
 pnpm install
 
-echo "Running the project on localhost:3000..."
-pnpm run dev
 
 echo "Cleanup done."
